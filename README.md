@@ -10,3 +10,5 @@
 
 - ⚙️ I use daily: `pandas`, `numpy`, `pytorch`, `catboost`, `airflow`, `chatgpt`, `mlflow`
 - 💬 `ping` me about **AI**, **RecSys**, **LLM**, **Econometrics**, **Research**
+
+📄 View my resume [RU](KartushovD_CV.pdf) [](EN) for a detailed overview of my professional experiences and skills.
