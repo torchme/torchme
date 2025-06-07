@@ -2,7 +2,7 @@
 
 #### A Machine Learning Developer
 
-🤖 Recommendation system MLE at [DATALAB](https://datalab.automacon.ru/);<br>
+🤖 Recommendation system MLE at [Wildberries](https://wb.ru/);<br>
 👨‍💻 Mentor at [Karpov Courses](https://karpov.courses/);<br>
 📜 Master Degree at [ITMO](https://ai.itmo.ru/);<br>
 
@@ -10,5 +10,3 @@
 
 - ⚙️ I use daily: `pandas`, `numpy`, `pytorch`, `catboost`, `airflow`, `chatgpt`, `mlflow`
 - 💬 `ping` me about **AI**, **RecSys**, **LLM**, **Econometrics**, **Research**
-
-📄 View my resume [RU](KartushovD_RU.pdf) [EN](KartushovD_EU.pdf) for a detailed overview of my professional experiences and skills.
